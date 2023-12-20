@@ -3,4 +3,4 @@ This is awesome project.
 ## How to start”
 ## Author
 [Author](author.md)
-- [Модель жизненного цикла](wiki/Lifecycle_Model)
+- [Модель жизненного цикла](https://github.com/alexkas666/project/wiki/Lifecycle_Model)
